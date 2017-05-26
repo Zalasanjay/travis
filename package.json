@@ -1,13 +1,8 @@
 {
-  "name": "node-mysql",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "main": "server.js",
   "dependencies": {
-    "bson": "^1.0.4",
-    "bson-ext": "^1.0.5",
-    "express": "^4.10.6",
-    "kerberos": "0.0.23",
-    "mongodb": "^3.8.21",
-    "mysql": "^2.5.4",
-    "siege": "^0.2.0"
+    "html": "^1.0.0",
+    "express": "3.x"
   }
 }
